@@ -11,7 +11,7 @@ Python 3.6  - https://www.python.org/
 
 ```
 • Ensure Python 3.6 is installed (see Prerequisites for download link)
-• Clone Repo</li>
+• Clone Repo
 • Open project.py to begin
 ```
 
